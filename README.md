@@ -11,4 +11,17 @@
 - 🤔 I’m looking for help with ...
      Job search
 
+## Skills:
+![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor*white&labelColor*101010)
+![spring](https://img.shields.io/badge/spring-323330?style=for-the-badge&logo=spring&logoColor*white&labelColor*101010)<br>
+![Html5](https://img.shields.io/badge/html5-FF8A33?style=for-the-badge&logo=html5&logoColor*white&labelColor*101010)
+![CSS3](https://img.shields.io/badge/CSS3-33B2FF?style=for-the-badge&logo=css3&logoColor*white&labelColor*101010)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor*white&labelColor*101010)<br>
+![MongoDb](https://img.shields.io/badge/MongoDB-C1BEBC?style=for-the-badge&logo=mongodb&logoColor*white&labelColor*101010)
+![Express.js](https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor*white&labelColor*101010)
+![Node.js](https://img.shields.io/badge/Node.js-C1BEBC?style=for-the-badge&logo=node.js&logoColor*white&labelColor*101010)
 
+
+
+### Contact me:
+guadalupe.rhinojosa@alumnos.udg.mx
