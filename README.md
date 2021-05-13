@@ -25,3 +25,4 @@
 
 ### Contact me:
 guadalupe.rhinojosa@alumnos.udg.mx
+linkedin.com/in/guadalupe-adrian-rosas-hinojosa-a630a1212
