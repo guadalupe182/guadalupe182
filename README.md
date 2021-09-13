@@ -5,9 +5,9 @@
 
 
 - 🔭 I’m currently working on ...
-     job search
+     creation of business pages 
 - 🌱 I’m currently learning ...
-     pwa applications    
+     deepening in web design
 - 🤔 I’m looking for help with ...
      Job search
 
