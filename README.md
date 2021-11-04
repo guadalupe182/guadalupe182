@@ -5,9 +5,9 @@
 
 
 - 🔭 I’m currently working on ...
-     creation of business pages 
+     creating api's with node.js and mongodb
 - 🌱 I’m currently learning ...
-     deepening in web design
+     node.js
 - 🤔 I’m looking for help with ...
      Job search
 
