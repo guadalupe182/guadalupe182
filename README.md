@@ -7,9 +7,11 @@
 - 🔭 I’m currently working on ...
      creating api's with node.js and mongodb
 - 🌱 I’m currently learning ...
-     node.js
+     React.js 
 - 🤔 I’m looking for help with ...
      Job search
+     
+- 🔨 This is [my latest freelance project](https://www.adeurmedicalimaging.com.mx/) 
 
 ## Skills:
 ![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor*white&labelColor*101010)
