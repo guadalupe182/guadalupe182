@@ -33,4 +33,4 @@
 
 
 ### Contact me:
-[![Linkedin](https://img.shields.io/badge/Linkedin-33B2FF?style=for-the-badge&logo=linkedin&logoColor*white&labelColor*101010)](https://www.linkedin.com/in/guadalupe-adrian-rosas-hinojosa-a630a1212/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-33B2FF?style=for-the-badge&logo=linkedin&logoColor*white&labelColor*101010)](www.linkedin.com/in/guadalupe-adrian-rosas-hinojosa-36080723a)
