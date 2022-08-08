@@ -33,4 +33,4 @@
 
 
 ### Contact me:
-![Linkedin](https://img.shields.io/badge/Linkedin-33B2FF?style=for-the-badge&logo=Linkedin&logoColor*white&labelColor*101010) [](www.linkedin.com/in/guadalupeRosas182)
+![Linkedin](https://img.shields.io/badge/Linkedin-33B2FF?style=for-the-badge&logo=Linkedin&logoColor*white&labelColor*101010(www.linkedin.com/in/guadalupeRosas182))
