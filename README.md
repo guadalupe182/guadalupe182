@@ -5,11 +5,11 @@
 
 
 - 🔭 I’m currently working on ...
-     creating api's with node.js and mongodb
+     creating ecommerce whit spring
 - 🌱 I’m currently learning ...
-     React.js 
+      Spring
 - 🤔 I’m looking for help with ...
-     Job search
+     My first developer job, I currently work as a test engineer at Foxconn, configuring servers for Amazon. 
      
 - 🔨 This is [my latest freelance project](https://www.adeurmedicalimaging.com.mx/) 
 
