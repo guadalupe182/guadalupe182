@@ -11,7 +11,6 @@
 - 🤔 I’m looking for help with ...
      My first developer job, I currently work as a test engineer at Foxconn, configuring servers for Amazon. 
      
-- 🔨 This is [my latest freelance project](https://www.adeurmedicalimaging.com.mx/) 
 
 ## Skills:
 ![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor*white&labelColor*101010)
